@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 711db8b2dc050d84f8b3f48877726d0d
+guid: ac8916ac6b5edba46bb78c5573228d95
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -165,7 +165,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ElfTitlev2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 38
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae923c8053ab224095f67da5430ac99
+      internalID: 986602648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfTitlev2_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f98062202c6864a99e7065e849e59d
+      internalID: -943308455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -176,7 +218,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElfTitlev2_1: -943308455
+      ElfTitlev2_0: 986602648
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
